@@ -1,0 +1,73 @@
+[
+	{
+		"grouping": "Architecture",
+		"skills": [
+			"Email/SMTP",
+			"IP Networking",
+			"DNS",
+			"Microservices",
+			"RESTful APIs",
+			"SOAP APIs",
+			"SaaS/PaaS/IaaS"
+		]
+	},
+	{
+		"grouping": "Languages, Operating Systems & Tools",
+		"skills": [
+			"Perl",
+			"JavaScript",
+			"Python",
+			"Git",
+			"Linux",
+			"bash",
+			"MacOS",
+			"Go",
+			"HTML5",
+			"CSS3",
+			"XML",
+			"XSLT",
+			"Java",
+			"php"
+		]
+	},
+	{
+		"grouping": "Platform Development & Administration",
+		"skills": [
+			"Jira",
+			"NGINX",
+			"MySQL",
+			"LAMP"
+		]
+	},
+	{
+		"grouping": "Data Management",
+		"skills": [
+			{
+				"name": "MySQL",
+				"icon": "mysql"
+			},
+			{
+				"name": "SQLite",
+				"icon": "database"
+			},
+			"MongoDB"
+		]
+	},
+	{
+		"grouping": "Containers & Cloud",
+		"skills": [
+			{
+				"name": "Digital Ocean",
+				"link": "https://digitalocean.com"
+			},
+			{
+				"name": "Docker",
+				"link": "https://docker.com"
+			},
+			{
+				"name": "Linux",
+				"link": "https://linux.org"
+			}
+		]
+	}
+]

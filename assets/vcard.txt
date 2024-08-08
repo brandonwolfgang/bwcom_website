@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Wolfgang;Brandon
+FN:Brandon
+URL:https://www.brandonwolfgang.com
+EMAIL:jobs@brandonwolfgang.com
+TEL;TYPE=:+1 989 245 5096
+ADR;TYPE=:;;;Hemlock;MI;48626;USA
+NOTE:The type of guy who spends the time learning how to generate a scannable QR contact card to make things easier for people.
+END:VCARD

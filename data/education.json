@@ -1,0 +1,16 @@
+[
+	{
+		"school": "[University of Central Florida](https://ucf.edu)",
+		"degree": "Bachelor of Applied Science",
+		"major" : "Software Development",
+		"notes" : "- Finished 2nd place at the 2012 Orlando HackerRank competition.\n- Certification in Computer Programming\n- Certification in Web Development\n- Graduated with High Honors",
+		"range" : "2013 - 2016"
+	},
+	{
+		"school": "[Valencia Community College](https://vcc.edu)",
+		"degree": "Associate of Science",
+		"major" : "Computer Programming & Analysis",
+		"notes" : "- Participated in exclusive internship with top professors.\n- Participated in [Second Lady Jill Biden's \"Community College to Career\" tour](https://www.ucf.edu/news/forum-with-jill-biden-highlights-directconnect-to-ucf/).\n- Certification in Computer Programming\n- Certification in Web Development\n- Certification in Mobile Application Development\n",
+		"range" : "2010 - 2012"
+	}
+]
